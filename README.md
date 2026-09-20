@@ -1,6 +1,14 @@
 # leaflet-ld
 A repository to gather ideas, issues and links to resources for development of a leaflet capability able to support semantically enabled IPT.
 
+## **CANDIDATE AVAILABLE**
+
+An implementation is now available at https://ogcincubator.github.io/jsonld-ui-utils/#leaflet-plugin
+
+An example of usage available on the [BBlocks examples register](https://ogcincubator.github.io/bblocks-examples/bblock/ogc.bbr.examples.linkeddata.forestStandCollection/examples/example-1/plugin:map-view )
+
+This needs further testing and generalisation - for example supporting alternative APIs to access term definitions, and transitioning to a community governanamce model.
+
 ## Leaflet plug-ins roadmap.
 
 ### Linked Data (LD) for GeoJSON
